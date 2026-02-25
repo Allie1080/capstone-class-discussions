@@ -1,0 +1,63 @@
+supabase, whatever that is, is not allowed
+
+backup people/institutions for data gathering 
+
+capture the process of the would-be stakeholders, transform into activity diagram for end users
+
+dont be too ambitious, focus on establishing requirements
+
+implement emerging technologies in WMA
+
+app must have dashboard and analytics, required
+
+figure out data that needs to be processed
+
+figure out existing tools/systems in given topic, figure out gaps
+
+end users might say something different from existing developers
+
+figure out problem from result of interview with end-users
+
+figure out specific locale for the project (e.g. hospital clinic would be different from school clinic), don't be broad
+
+dont specify company name in study (unless you make them sign a consent form), use generic terms like 'university', 'business', 'shoe store'
+
+dont mention specific location (in title?) like 'in Lucena City' 
+
+BazSyncga! 
+
+dont just cite blocks of text, contextualize them under the idea of your project to introduce it
+
+use your project keywords to look for relevant literature 
+
+outlining
+
+find recent tool na ginamit nung pinag basehan 
+
+dont use 'automated' keyword, automation in itself is not a valid reason for the project, not an innovation
+
+when dealing with core idea of project, use literature from 2-3 years (because of advancements in technology)
+
+difference betwen ComSci and IT is IT is more focused on integration of existing technology than developing algorhtms 
+
+project context is 1-2 pages?
+
+not very reccommended to site Rappler, GMA News, ABS CBN News
+
+dont pick your interviewees
+
+buy Arduino Starter Kit
+
+make sure you know everything you write and edit AI-generated sentences before putting them in your manuscript
+
+be direct to the point, ChatGPT will lengthen your manuscript
+
+OBJECTIVES (5 only): 
+- requirement analysis
+- design
+- development
+- testing (white box or black box)
+- ISO 25010 software valdation system
+
+
+

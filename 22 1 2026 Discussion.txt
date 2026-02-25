@@ -1,0 +1,62 @@
+OBJECTIVES
+==========
+
+Requirement for data gathering:
+- do it online as much as possible because university protocol requires medical certificates, notarization, etc. if in-person (loophole?)
+- cannot be on-the-spot; must be informed of agenda, given letter (there is template in OneDrive)
+
+
+- You can ask AI for major objectives, but make sure to edit them
+
+- Features must be based on what the process needs, not what the person in-charge of the process wants
+
+- Objectives need to be SMART (Specific, Measurable, Attainable, Realistic, Time-bound/Timely)
+  ex:  To design and develop a web and mobile application for scholarship management (omit system due to redundancy)...
+  ex: To design and develop a centralized, secured, and interopable scholarship system (not platform, to be more specific) that manages scholarship application, award, and reporting processes for a University (stakeholder, but not specific for data privacy).
+
+- Do not put 'prototype' in the objectives. 'Prototype' in IT usually refers to the likes of Figma?
+
+- Find the stakeholders for your application 
+
+- I'm gonna get left behind if I keep up my anti-AI stance
+
+- results must be based on objectives
+
+- validate functional, non-functional, and reporting requirements gathered from result of interviews and benchmarking of similar systems by thinking of an IT-oriented solution for specific problems identified 
+
+- becareful when adding too much functional requirements to avoid 'feature creep'
+
+- avoid using the word 'automated' because its vague and can mean a lot of things
+
+- product is 'web and mobile application' and 'hardware' (if applicable)
+
+- dont be too ambitious with the frameworks to be used, PWA is fine? Flutter framework for both mobile app and web seems fine
+
+- use tools that allow app to be deployed (e.g. no Supabase free version) while also not making the final product too costly for the stakeholders (as much as possible, use FOSS?)
+
+- Maam mentions the story of a system for the University that couldn't be implemented due to Supabase
+
+- you can put the tools you learned to use in your resume (like for OJT)
+
+- another idea, wearable technology 
+
+- dont forget ISO 25000 (the questionairre we used in Ma'am Cheecky's AppDev class)
+
+- you can target a department from Enverga?
+
+- 5 pages introduction
+
+SPECIFIC OBJECTIVES SAMPLE
+
+1. To identify and analyze the gathered data from ... to establish the funtctional and non-functional rewuirements.
+2. To design the application using Figma for protptpting, (front-end, ux process)... UML diagrams - architecture, use case diagram, activity diagram, deployment diagram, er diagram, site map, UI of the prototype.
+3. To develop the web and mobile applications, tools, method (e.g. DevOps, which no one in the history of the university has used yet), 
+4. To test the system using... (BlackBox - test cases; the one used often, WhiteBox, GreyBox) 
+5. Evaluation using ISO 250101
+
+Assignment:
+- get a topic, update worksheet, document brainstorming session
+- record attendance of workmates for class discussion and group meetings
+
+
+
